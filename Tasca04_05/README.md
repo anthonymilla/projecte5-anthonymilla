@@ -1,3 +1,5 @@
+# Enunciat
+
 # T04-Introducció al cas
 
 Després del nostre assessorament, TransLògic S.A. ens encarrega el desplegament dels seus servidors Windows Servers 2025.
