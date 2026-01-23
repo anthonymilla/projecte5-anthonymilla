@@ -1,3 +1,5 @@
+# Enunciat
+
 # PART 1. PRESENTACIÓ DEL PROJECTE I EL SEU OBJECTIU
    1. Presentació del projecte. [Materials i recursos](https://drive.google.com/drive/folders/1_AyH4aQIJalNlum6IuBfVlHTlD8NF8ZX?usp=sharing)
    2. [Presentació](https://gamma.app/docs/Segon-Curs-Moment-Clau-zzqkkkyr6zgj40i)
