@@ -52,7 +52,7 @@ Bona sort! 🚀
 - [Tasca1](/Tasca01)
 - [Tasca2](/Tasca02)
 - [Tasca3](/Tasca03)
-- [Tasca 4 i 5](/Tasca04_05)
+- [Tasca4 i 5](/Tasca04_05)
 - [Tasca6](/Tasca06)
 - [Tasca7](/Tasca07)
 - [Tasca8](/Tasca08)
