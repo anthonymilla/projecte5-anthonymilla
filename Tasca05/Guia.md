@@ -2,127 +2,127 @@
 
 
 
-![Hola.](img/Imatge01.png)
+![Hola.](Img/Imatge01.png)
 
 
 
-![Hola.](img/Imatge02.png)
+![Hola.](Img/Imatge02.png)
 
 
 
-![Hola.](img/Imatge03.png)
+![Hola.](Img/Imatge03.png)
 
 
 
-![Hola.](img/Imatge04.png)
+![Hola.](Img/Imatge04.png)
 
 
 
-![Hola.](img/Imatge05.png)
+![Hola.](Img/Imatge05.png)
 
 
 
-![Hola.](img/Imatge06.png)
+![Hola.](Img/Imatge06.png)
 
 
 
-![Hola.](img/Imatge07.png)
+![Hola.](Img/Imatge07.png)
 
 
 
-![Hola.](img/Imatge08.png)
+![Hola.](Img/Imatge08.png)
 
 
 
-![Hola.](img/Imatge09.png)
+![Hola.](Img/Imatge09.png)
 
 
 
-![Hola.](img/Imatge10.png)
+![Hola.](Img/Imatge10.png)
 
 
 
-![Hola.](img/Imatge11.png)
+![Hola.](Img/Imatge11.png)
 
 
 
-![Hola.](img/Imatge12.png)
+![Hola.](Img/Imatge12.png)
 
 
 
-![Hola.](img/Imatge13.png)
+![Hola.](Img/Imatge13.png)
 
 
 
-![Hola.](img/Imatge14.png)
+![Hola.](Img/Imatge14.png)
 
 
 
-![Hola.](img/Imatge15.png)
+![Hola.](Img/Imatge15.png)
 
 
 
-![Hola.](img/Imatge16.png)
+![Hola.](Img/Imatge16.png)
 
 
 
-![Hola.](img/Imatge17.png)
+![Hola.](Img/Imatge17.png)
 
 
 
-![Hola.](img/Imatge18.png)
+![Hola.](Img/Imatge18.png)
 
 
 
-![Hola.](img/Imatge19.png)
+![Hola.](Img/Imatge19.png)
 
 
 
-![Hola.](img/Imatge20.png)
+![Hola.](Img/Imatge20.png)
 
 
 
-![Hola.](img/Imatge21.png)
+![Hola.](Img/Imatge21.png)
 
 
 
-![Hola.](img/Imatge22.png)
+![Hola.](Img/Imatge22.png)
 
 
 
-![Hola.](img/Imatge23.png)
+![Hola.](Img/Imatge23.png)
 
 
 
-![Hola.](img/Imatge24.png)
+![Hola.](Img/Imatge24.png)
 
 
 
-![Hola.](img/Imatge25.png)
+![Hola.](Img/Imatge25.png)
 
 
 
-![Hola.](img/Imatge26.png)
+![Hola.](Img/Imatge26.png)
 
 
 
-![Hola.](img/Imatge27.png)
+![Hola.](Img/Imatge27.png)
 
 
 
-![Hola.](img/Imatge28.png)
+![Hola.](Img/Imatge28.png)
 
 
 
-![Hola.](img/Imatge29.png)
+![Hola.](Img/Imatge29.png)
 
 
 
-![Hola.](img/Imatge30.png)
+![Hola.](Img/Imatge30.png)
 
 
 
-![Hola.](img/Imatge31.png)
+![Hola.](Img/Imatge31.png)
 
 [Anar a l'enunciat](../Tasca05/README.md)  
 [Anar a la pàgina inicial](../README.md)
