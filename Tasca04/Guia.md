@@ -1,9 +1,7 @@
 # INSTAL·LACIÓ DOMAIN CONTROLLER EN SERVER 2025/DESPLEGAMENT DE L’ACTIVE DIRECTORY
 
-| T04 |
+| Procediment |
 |----------------------------------------|
-
-**Procediment**
 
 - Crea una màquina virtual amb 8 GB de RAM i dos processadors. La VM disposarà de dos discos, un de 32 GB com a disc principal (on instal·lareu el SO) i un de secundari de 10 GB. La màquina haurà de tenir dues interfícies de xarxa: una en xarxa NAT (no NAT) i la segona en host-only.
 
@@ -89,7 +87,8 @@ Pausem les actualitzacions tot el temps que sigui possible (5 setmanes).
 
 ![Pausem les actualitzacions tot el temps que sigui possible (5 setmanes).](Img/Imatge20.png)
 
-**Contingut de la guia**
+| Contingut de la guia |
+|----------------------------------------|
 
 **Compara la configuració de la màquina virtual definits a l’apartat anterior amb els requisits indicats per Microsoft. Són coherents?**
 
