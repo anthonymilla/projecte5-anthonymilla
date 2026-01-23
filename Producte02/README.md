@@ -47,6 +47,6 @@ Com a consultors informàtics, haureu de:
 # Materials i links de suport
 
 - **UD6.AA1. Introducció a Windows Server [Moodle 0224 SOX]**
-- **Microsoft. Precios y licencias de Windows Server [link](https://www.microsoft.com/es-es/windows-server/pricing)[link](https://license-partners.com/windows-server-2025-licencias-novedades-requisitos/)[link](https://www.lenovosalesportal.com/windows-server-2025-core-licensing-calculator.aspx)[preus](https://www.senetic.es/category/microsoft-windows-server-13134/)**
+- **Microsoft. Precios y licencias de Windows Server [link](https://www.microsoft.com/es-es/windows-server/pricing) [link](https://license-partners.com/windows-server-2025-licencias-novedades-requisitos/) [link](https://www.lenovosalesportal.com/windows-server-2025-core-licensing-calculator.aspx) [preus](https://www.senetic.es/category/microsoft-windows-server-13134/)**
 
 [Anar a la pàgina inicial](../README.md)
