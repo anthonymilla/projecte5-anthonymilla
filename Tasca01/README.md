@@ -1,3 +1,5 @@
+# Enunciat
+
 # Objectiu de la T01
 
 L’objectiu d’aquesta tasca no és redactar un document teòric ni lliurar un únic Google Docs “ben escrit amb ajuda de la IA”. L’objectiu és preparar tota la documentació i els materials necessaris com si realment haguéssiu d’obrir l’empresa al món real.
