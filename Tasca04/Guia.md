@@ -97,5 +97,5 @@ La configuració de la màquina virtual utilitzada és coherent amb els requisit
 
 **Documenta els diversos procediments de la instal·lació amb captures de pantalla i observacions. Recorda que el format a utilitzar és MarkDown.**
 
-[Anar a l'enunciat](../Tasca04_05/README.md)  
+[Anar a l'enunciat](../Tasca04/README.md)  
 [Anar a la pàgina inicial](../README.md)
