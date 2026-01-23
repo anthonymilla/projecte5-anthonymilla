@@ -1,3 +1,5 @@
+# Enunciat
+
 # Acadèmia feta amb Moodle
 
 # Part 1: Instal·lar un sistema de gestió d’aprenentatge a distància, personalitzar-lo i configurar-lo segons les necessitats d’una organització
