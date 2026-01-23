@@ -1,3 +1,5 @@
+# Enunciat
+
 # Control de versions: metodologia i millores
 
 De moment hem gestionat el control de versions usant directament el repositori des de la web de GitHub. Tot i que ens ha solucionat força problemes, és evident que aquesta metodologia té unes quantes limitacions:
