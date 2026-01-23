@@ -1,3 +1,5 @@
+# Enunciat
+
 # Introducció
 
 Un dels àmbits més crítics de l’administració de sistemes és la seguretat davant el malware. En un entorn professional, qualsevol tècnic o tècnica d’informàtica ha de ser capaç d’identificar riscos, aplicar mesures de protecció i entendre com actuen les principals amenaces que poden comprometre un sistema.
