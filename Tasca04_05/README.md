@@ -52,6 +52,6 @@ Com a continuació de la tasca anterior, us toca desplegar el directori actiu so
 
 - Guia **UD6.AA3 Instal·lació DC** [Moodle SOX]
 
-- [Anar a la Guia](../Tasca01/Guia.md)     
-- [Anar a la pàgina inicial](../README.md)
+[Anar a la Guia](../Tasca01/Guia.md)     
+[Anar a la pàgina inicial](../README.md)
 
