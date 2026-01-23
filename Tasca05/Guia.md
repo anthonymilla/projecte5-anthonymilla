@@ -124,5 +124,5 @@
 
 ![Hola.](img/Imatge31.png)
 
-
-
+[Anar a l'enunciat](../Tasca05/README.md)  
+[Anar a la pàgina inicial](../README.md)
