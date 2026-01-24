@@ -1,5 +1,11 @@
+# INSTAL·LACIÓ DEL DOMINI
 
+| Procediment a documentar |
+|----------------------------------------|
 
+- Instal·lar els rols necessaris al servidor.
+
+Primerament anem a configuració, Network & internet (Xarxa i Internet), després a Ethernet i Edit (editar) en DNS server assignment (Assignació del servidor DNS).
 
 
 ![Hola.](Img/Imatge01.png)
