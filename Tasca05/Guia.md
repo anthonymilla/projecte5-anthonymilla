@@ -115,7 +115,7 @@ Forwarders.
 
 ![Forwarders.](Img/Imatge26.png)
 
-I posem 8.8.8.8 com a reenviador i en Number of seconds before forward queries time out (Nombre de segons abans que esgoti el temps d'espera de les consultes de reenviament) posem 5.
+I posem 8.8.8.8 com a reenviador i en Number of seconds before forward queries time out (Nombre de segons abans que s'esgoti el temps d'espera de les consultes de reenviament) posem 5.
 
 ![I posem 8.8.8.8 com a reenviador i en Number of seconds before forward queries time out (Nombre de segons abans que esgoti el temps d'espera de les consultes de reenviament) posem 5.](Img/Imatge27.png)
 
