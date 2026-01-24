@@ -139,6 +139,7 @@ En aquest cas mitjançant correu.
 
 ![Un cop teniu tot els procediment finalitzat, copieu l’script PowerShell a la carpeta del repositori que esteu utilitzant. Per fer-ho teniu diversos mecanismes: Copiar usant USB. Enviant-lo mitjançant Internet (correu, Drive o serveis com filetransfer). Copiant-lo usant scp (cal que instal·leu el SSH a Windows Server). En aquest cas mitjançant correu.](Img/Imatge31.png)
 
+```
 #
 # Windows PowerShell script for AD DS Deployment
 #
@@ -156,8 +157,7 @@ Install-ADDSForest `
 -NoRebootOnCompletion:$false `
 -SysvolPath "C:\WINDOWS\SYSVOL" `
 -Force:$true
-
-
+```
 
 [Anar a l'enunciat](../Tasca05/README.md)  
 [Anar a la pàgina inicial](../README.md)
