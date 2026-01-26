@@ -3,7 +3,7 @@
 | Guia |
 |----------------------------------------|
 
-[T08: Seguretat: protegint-nos contra el malware - Guia](https://drive.google.com/file/d/1gfdCZI6RBoE1ove3iuq4lztr4BEmOzKH/view?usp=drivesdk).
+[T08: Seguretat: protegint-nos contra el malware - Guia](https://docs.google.com/document/d/1jOeLPPlyLliqnTqIGQduUSgiqUVwJWsub1Yi8p-45TY/edit?usp=drive_link).
 
 [Anar a l'enunciat](../Tasca08/README.md)  
 [Anar a la pàgina inicial](../README.md)
