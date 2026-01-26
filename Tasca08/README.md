@@ -21,5 +21,4 @@ Aquesta activitat combina coneixement teòric, pràctica guiada i anàlisi crít
 - **0226.RA3.AA1 Seguretat Activa (Moodle Seguretat Informàtica)**
 - **Enunciat activitat. [(enllaç)](https://github.com/carlesalonso/0226-malware)**
 
-[Anar a la Guia](../Tasca08/Guia.md)     
 [Anar a la pàgina inicial](../README.md)
