@@ -21,7 +21,7 @@ msfadmin
 ```
 msfadmin
 ```
-5. Un cop iniciada la màquina, obriu una terminal i executeu la comanda ```ip``` a per obtenir la IP assignada a la màquina. Anoteu aquesta IP, ja que la necessitareu més endavant.
+5. Un cop iniciada la màquina, obriu una terminal i executeu la comanda ```ip a``` per obtenir la IP assignada a la màquina. Anoteu aquesta IP, ja que la necessitareu més endavant.
 
 ![Un cop iniciada la màquina, obriu una terminal i executeu la comanda ip a per obtenir la IP assignada a la màquina. Anoteu aquesta IP, ja que la necessitareu més endavant.](img/Imatge02.png)
 
