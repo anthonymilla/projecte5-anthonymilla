@@ -55,10 +55,6 @@ admin
 
 - Configurar la xarxa de les dues interfícies, aquí cal seleccionar en cadascuna d'elles l'opció dhcp de IPv4. Finalment, anoteu les dues adreces.
 
-
-
-
-
 ![Hola](img/Imatge05.png)
 
 ![Hola](img/Imatge06.png)
@@ -70,6 +66,59 @@ admin
 ![Hola](img/Imatge09.png)
 
 ![Hola](img/Imatge10.png)
+
+| Procediment pràctic |
+|----------------------------------------|
+
+| Anàlisi de vulnerabilitats |
+|----------------------------------------|
+
+1. Mostra l’accés a OpenVAS via web amb les credencials creades anteriorment. Veuràs que et surt un avís relatiu a la seguretat del certificat, ja que és un certificat autofirmat. Pots ignorar aquest avís.
+
+
+
+2. Afegeix la IP de la màquina vulnerable com a Host.
+
+
+
+3. Configura un Target amb el Host del punt anterior, inclou les credencials de la màquina vulnerable per accedir via SSH i SMB.
+
+
+
+4. Realitza una exploració de vulnerabilitats. Aquest procés pot ser lent, si veieu que us queda poc temps, cancel·leu l’anàlisi i treballeu amb els resultats obtinguts.
+
+
+
+| Recollida de resultats |
+|----------------------------------------|
+
+Un cop acabem l’exploració OpenVAS ens mostra els resultats corresponents a la màquina, podem veure la descripció de la vulnerabilitat i resta de informació significativa. 
+
+
+
+| Documentació de l'activitat |
+|----------------------------------------|
+
+Documenta bé en un arxiu de Google Docs (assegura't de compartir-lo amb el teu professor) o directament en format Markdown, a la carpeta corresponent del repositori GitHub del projecte, els següents punts:
+
+- Documentació del procés d'anàlisi de vulnerabilitats seguit:
+
+-Configuració de la màquina vulnerable.
+
+-Configuració de la màquina OpenVAS.
+
+-Passos seguits per realitzar l'anàlisi.
+
+- Analitza quatre vulnerabilitats trobades:
+
+-Descripció de la vulnerabilitat incloent el seu CVE.
+
+-Nivell de gravetat.
+
+-Possible explotació.
+
+-Mesures de mitigació proposades.
+
 
 
 [Anar a l'enunciat](../Tasca09/README.md)  
