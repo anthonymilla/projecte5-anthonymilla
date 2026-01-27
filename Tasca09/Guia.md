@@ -13,8 +13,14 @@
 ![Configureu la màquina per tal que utilitzi xarxa en mode "xarxa-NAT".](img/Imatge01.png)
 
 4. Inicieu la màquina, les credencials per defecte són:
-- Usuari:```msfadmin```
-- Contrasenya:```msfadmin```
+- Usuari:
+```
+msfadmin
+```
+- Contrasenya:
+```
+msfadmin
+```
 5. Un cop iniciada la màquina, obriu una terminal i executeu la comanda ip a per obtenir la IP assignada a la màquina. Anoteu aquesta IP, ja que la necessitareu més endavant.
 
 ![Un cop iniciada la màquina, obriu una terminal i executeu la comanda ip a per obtenir la IP assignada a la màquina. Anoteu aquesta IP, ja que la necessitareu més endavant.](img/Imatge02.png)
