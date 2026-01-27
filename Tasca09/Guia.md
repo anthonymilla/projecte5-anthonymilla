@@ -1,7 +1,9 @@
 # Anàlisi vulnerabilitats
 
-Preparació de l'entorn
+| Preparació de l'entorn |
+|----------------------------------------|
 
-Equip a escannejar
+| Equip a escannejar |
+|----------------------------------------|
 
 
