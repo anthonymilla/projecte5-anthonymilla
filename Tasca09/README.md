@@ -17,4 +17,5 @@ Veurem què són les vulnerabilitats, com poden impactar a la seguretat d’un s
 - **0226.RA3.AA2 Vulnerabilitats (Moodle Seguretat Informàtica)**
 - **Enunciat activitiat. RA3 AA2 [Vulnerabilitats](https://github.com/carlesalonso/0226-vulnerabilitats)**
 
+[Anar a la Guia](../Tasca09/Guia.md)     
 [Anar a la pàgina inicial](../README.md)
