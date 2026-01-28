@@ -46,4 +46,5 @@ Iniciant sessió a l’equip client amb els tres usuaris de prova.
 
 - **UD6.AA3 Desplegament** [Moodle 0224 SOX]
 
+[Anar a la Guia](../Tasca06/Guia.md)     
 [Anar a la pàgina inicial](../README.md)
