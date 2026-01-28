@@ -7,13 +7,13 @@ Un cop tenim ja el nostre domini creat, el següent pas, és desplegar el domini
 
 Tenim l’opció de tenir una paperera de reciclatge pels objectes del directori, així si esborrem per error un objecte de l’AD el podrem recuperar.
 
-![Tenim l’opció de tenir una paperera de reciclatge pels objectes del directori, així si esborrem per error un objecte de l’AD el podrem recuperar.](Img/Imatge01.png)
+![Tenim l’opció de tenir una paperera de reciclatge pels objectes del directori, així si esborrem per error un objecte de l’AD el podrem recuperar.](img/Imatge01.png)
 
-![Tenim l’opció de tenir una paperera de reciclatge pels objectes del directori, així si esborrem per error un objecte de l’AD el podrem recuperar.](Img/Imatge02.png)
+![Tenim l’opció de tenir una paperera de reciclatge pels objectes del directori, així si esborrem per error un objecte de l’AD el podrem recuperar.](img/Imatge02.png)
 
 Després de seleccionar, d’haver confirmat i refrescat el Manager ens surt.
 
-![Després de seleccionar, d’haver confirmat i refrescat el Manager ens surt.](Img/Imatge03.png)
+![Després de seleccionar, d’haver confirmat i refrescat el Manager ens surt.](img/Imatge03.png)
 
 | Procediment pràctic |
 |----------------------------------------|
@@ -22,19 +22,19 @@ Després de seleccionar, d’haver confirmat i refrescat el Manager ens surt.
 
 Anem a AD DS, fem click dret i anem a Active Directory Users and Computers (Usuaris i ordinadors d'Active Directory).
 
-![Anem a AD DS, fem click dret i anem a Active Directory Users and Computers (Usuaris i ordinadors d'Active Directory).](Img/Imatge04.png)
+![Anem a AD DS, fem click dret i anem a Active Directory Users and Computers (Usuaris i ordinadors d'Active Directory).](img/Imatge04.png)
 
 Ara creem la següent estructura d’unitats organitzatives: Grups i Usuaris.
 
-![Ara creem la següent estructura d’unitats organitzatives: Grups i Usuaris.](Img/Imatge05.png)
+![Ara creem la següent estructura d’unitats organitzatives: Grups i Usuaris.](img/Imatge05.png)
 
-![Ara creem la següent estructura d’unitats organitzatives: Grups i Usuaris.](Img/Imatge06.png)
+![Ara creem la següent estructura d’unitats organitzatives: Grups i Usuaris.](img/Imatge06.png)
 
-![Ara creem la següent estructura d’unitats organitzatives: Grups i Usuaris.](Img/Imatge07.png)
+![Ara creem la següent estructura d’unitats organitzatives: Grups i Usuaris.](img/Imatge07.png)
 
 Resultat:
 
-![Resultat](Img/Imatge08.png)
+![Resultat](img/Imatge08.png)
 
 - Definir la següent estructura de grups:
 
@@ -48,31 +48,31 @@ Resultat:
 
 Anem a Grups, click dret, New i Group.
 
-![Anem a Grups, click dret, New i Group.](Img/Imatge09.png)
+![Anem a Grups, click dret, New i Group.](img/Imatge09.png)
 
 I posem el nom del nou grup, gestio (així amb tots).
 
-![I posem el nom del nou grup, gestio (així amb tots).](Img/Imatge10.png)
+![I posem el nom del nou grup, gestio (així amb tots).](img/Imatge10.png)
 
 Resultats:
 
-![Resultats:](Img/Imatge11.png)
+![Resultats:](img/Imatge11.png)
 
 Tots els grups anteriors han de ser membres del grup: personal. Per això escollim un grup, anem a Members, Add…
 
-![Tots els grups anteriors han de ser membres del grup: personal. Per això escollim un grup, anem a Members, Add…](Img/Imatge12.png)
+![Tots els grups anteriors han de ser membres del grup: personal. Per això escollim un grup, anem a Members, Add…](img/Imatge12.png)
 
 I posem el grup: personal. Acceptem (OK), Apply i OK. O fem amb els tres grups: gestio, magatzem i gerencia.
 
-![I posem el grup: personal. Acceptem (OK), Apply i OK. O fem amb els tres grups: gestio, magatzem i gerencia.](Img/Imatge13.png)
+![I posem el grup: personal. Acceptem (OK), Apply i OK. O fem amb els tres grups: gestio, magatzem i gerencia.](img/Imatge13.png)
 
 Resultats:
 
-![Resultats:](Img/Imatge14.png)
+![Resultats:](img/Imatge14.png)
 
-![Resultats:](Img/Imatge15.png)
+![Resultats:](img/Imatge15.png)
 
-![Resultats:](Img/Imatge16.png)
+![Resultats:](img/Imatge16.png)
 
 - Crear una plantilla d’usuari per cadascun dels grups:
 
