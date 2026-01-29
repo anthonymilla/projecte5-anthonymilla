@@ -55,17 +55,9 @@ admin
 
 - Configurar la xarxa de les dues interfícies, aquí cal seleccionar en cadascuna d'elles l'opció dhcp de IPv4. Finalment, anoteu les dues adreces.
 
-![Hola](img/Imatge05.png)
+![Definir l'usuari que usarem per entrar via web, per comoditat triarem un usuari ```admin``` amb contrasenya ```admin```.](img/Imatge05.png)
 
-![Hola](img/Imatge06.png)
-
-![Hola](img/Imatge07.png)
-
-![Hola](img/Imatge08.png)
-
-![Hola](img/Imatge09.png)
-
-![Hola](img/Imatge10.png)
+![Configurar la xarxa de les dues interfícies, aquí cal seleccionar en cadascuna d'elles l'opció dhcp de IPv4. Finalment, anoteu les dues adreces.](img/Imatge06.png)
 
 | Procediment pràctic |
 |----------------------------------------|
@@ -77,17 +69,43 @@ admin
 
 
 
+![Hola](img/Imatge07.png)
+
 2. Afegeix la IP de la màquina vulnerable com a Host.
 
 
+
+![Hola](img/Imatge08.png)
+
+![Hola](img/Imatge09.png)
 
 3. Configura un Target amb el Host del punt anterior, inclou les credencials de la màquina vulnerable per accedir via SSH i SMB.
 
 
 
+![Hola](img/Imatge10.png)
+
+![Hola](img/Imatge11.png)
+
+![Hola](img/Imatge12.png)
+
+![Hola](img/Imatge13.png)
+
+![Hola](img/Imatge14.png)
+
+![Hola](img/Imatge15.png)
+
 4. Realitza una exploració de vulnerabilitats. Aquest procés pot ser lent, si veieu que us queda poc temps, cancel·leu l’anàlisi i treballeu amb els resultats obtinguts.
 
 
+
+![Hola](img/Imatge16.png)
+
+![Hola](img/Imatge17.png)
+
+![Hola](img/Imatge18.png)
+
+![Hola](img/Imatge19.png)
 
 | Recollida de resultats |
 |----------------------------------------|
