@@ -104,10 +104,10 @@ Resultat:
 
 4. Realitza una exploració de vulnerabilitats. Aquest procés pot ser lent, si veieu que us queda poc temps, cancel·leu l’anàlisi i treballeu amb els resultats obtinguts.
 
-Anem a Tasks i New tasks.
+Anem a Tasks i New Task.
 
 ![Realitza una exploració de vulnerabilitats. Aquest procés pot ser lent, si veieu que us queda poc temps, cancel·leu l’anàlisi i treballeu amb els resultats obtinguts.
-Anem a Tasks i New tasks.](img/Imatge16.png)
+Anem a Tasks i New Task.](img/Imatge16.png)
 
 Afegim:
 
