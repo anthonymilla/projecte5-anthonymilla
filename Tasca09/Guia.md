@@ -67,45 +67,59 @@ admin
 
 1. Mostra l’accés a OpenVAS via web amb les credencials creades anteriorment. Veuràs que et surt un avís relatiu a la seguretat del certificat, ja que és un certificat autofirmat. Pots ignorar aquest avís.
 
-
-
-![Hola](img/Imatge07.png)
+![Mostra l’accés a OpenVAS via web amb les credencials creades anteriorment. Veuràs que et surt un avís relatiu a la seguretat del certificat, ja que és un certificat autofirmat. Pots ignorar aquest avís.](img/Imatge07.png)
 
 2. Afegeix la IP de la màquina vulnerable com a Host.
 
+Anem a Assets, Hosts, afegir:
 
+![Afegeix la IP de la màquina vulnerable com a Host.
+Anem a Assets, Hosts, afegir:](img/Imatge08.png)
 
-![Hola](img/Imatge08.png)
-
-![Hola](img/Imatge09.png)
+![Afegeix la IP de la màquina vulnerable com a Host.
+Anem a Assets, Hosts, afegir:](img/Imatge09.png)
 
 3. Configura un Target amb el Host del punt anterior, inclou les credencials de la màquina vulnerable per accedir via SSH i SMB.
 
+En Actions, afegir:
 
+![Configura un Target amb el Host del punt anterior, inclou les credencials de la màquina vulnerable per accedir via SSH i SMB.
+En Actions, afegir:](img/Imatge10.png)
 
-![Hola](img/Imatge10.png)
+Configurem un Target amb el Host del punt anterior, incloem les credencials de la màquina vulnerable per accedir via SSH i SMB.
 
-![Hola](img/Imatge11.png)
+![Configurem un Target amb el Host del punt anterior, incloem les credencials de la màquina vulnerable per accedir via SSH i SMB.](img/Imatge11.png)
 
-![Hola](img/Imatge12.png)
+Afegir:
 
-![Hola](img/Imatge13.png)
+![Afegir:](img/Imatge12.png)
 
-![Hola](img/Imatge14.png)
+![Afegir:](img/Imatge13.png)
 
-![Hola](img/Imatge15.png)
+![Afegir:](img/Imatge14.png)
+
+Resultat:
+
+![Resultat:](img/Imatge15.png)
 
 4. Realitza una exploració de vulnerabilitats. Aquest procés pot ser lent, si veieu que us queda poc temps, cancel·leu l’anàlisi i treballeu amb els resultats obtinguts.
 
+Anem a Tasks i New tasks.
 
+![Realitza una exploració de vulnerabilitats. Aquest procés pot ser lent, si veieu que us queda poc temps, cancel·leu l’anàlisi i treballeu amb els resultats obtinguts.
+Anem a Tasks i New tasks.](img/Imatge16.png)
 
-![Hola](img/Imatge16.png)
+Afegim:
 
-![Hola](img/Imatge17.png)
+![Afegim:](img/Imatge17.png)
 
-![Hola](img/Imatge18.png)
+Resultat:
 
-![Hola](img/Imatge19.png)
+![Resultat:](img/Imatge18.png)
+
+Fem l'anàlisi (Play).
+
+![Fem l'anàlisi (Play).](img/Imatge19.png)
 
 | Recollida de resultats |
 |----------------------------------------|
