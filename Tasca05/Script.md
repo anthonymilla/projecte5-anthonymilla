@@ -1,3 +1,4 @@
+```
 #
 # Windows PowerShell script for AD DS Deployment
 #
@@ -15,3 +16,4 @@ Install-ADDSForest `
 -NoRebootOnCompletion:$false `
 -SysvolPath "C:\WINDOWS\SYSVOL" `
 -Force:$true
+```
