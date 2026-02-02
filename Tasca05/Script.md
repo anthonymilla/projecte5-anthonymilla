@@ -18,4 +18,4 @@ Install-ADDSForest `
 -Force:$true
 ```
 
-[arxiu](https://drive.google.com/file/d/1fbbRB4azYnomreqkp8aWJkOULHEah7qf/view?usp=drive_link)
+[Arxiu](https://drive.google.com/file/d/1fbbRB4azYnomreqkp8aWJkOULHEah7qf/view?usp=drive_link)
