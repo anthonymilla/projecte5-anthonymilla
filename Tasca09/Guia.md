@@ -121,6 +121,10 @@ Fem l'anàlisi (Play).
 
 ![Fem l'anàlisi (Play).](img/Imatge19.png)
 
+* Aquest procés pot ser lent, si veieu que us queda poc temps, cancel·leu l’anàlisi i treballeu amb els resultats obtinguts.
+
+El vaig deixar més d’1 hora i encara no havia acabat, estava al 94% i vaig treballar amb els resultats obtinguts.
+
 | Recollida de resultats |
 |----------------------------------------|
 
