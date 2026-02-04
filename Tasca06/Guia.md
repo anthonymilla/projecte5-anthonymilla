@@ -60,19 +60,17 @@ Resultats:
 
 Tots els grups anteriors han de ser membres del grup: personal. Per això escollim el grup personal, anem a Members, Add…
 
-![Tots els grups anteriors han de ser membres del grup: personal. Per això escollim un grup, anem a Members, Add…](img/Imatge12.png)
+![Tots els grups anteriors han de ser membres del grup: personal. Per això escollim el grup personal, anem a Members, Add…](img/Imatge12.png)
 
 I posem els grups. Acceptem (OK), Apply i OK. Ho fem amb els tres grups: gestio, magatzem i gerencia.
 
-![I posem el grup: personal. Acceptem (OK), Apply i OK. Ho fem amb els tres grups: gestio, magatzem i gerencia.](img/Imatge13.png)
+![I posem els grups. Acceptem (OK), Apply i OK. Ho fem amb els tres grups: gestio, magatzem i gerencia.](img/Imatge13.png)
+
+![I posem els grups. Acceptem (OK), Apply i OK. Ho fem amb els tres grups: gestio, magatzem i gerencia.](img/Imatge13.2.png)
 
 Resultats:
 
 ![Resultats:](img/Imatge14.png)
-
-![Resultats:](img/Imatge15.png)
-
-![Resultats:](img/Imatge16.png)
 
 - Crear una plantilla d’usuari per cadascun dels grups:
 
