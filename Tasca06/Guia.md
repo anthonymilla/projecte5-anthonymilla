@@ -58,11 +58,11 @@ Resultats:
 
 ![Resultats:](img/Imatge11.png)
 
-Tots els grups anteriors han de ser membres del grup: personal. Per això escollim un grup, anem a Members, Add…
+Tots els grups anteriors han de ser membres del grup: personal. Per això escollim el grup personal, anem a Members, Add…
 
 ![Tots els grups anteriors han de ser membres del grup: personal. Per això escollim un grup, anem a Members, Add…](img/Imatge12.png)
 
-I posem el grup: personal. Acceptem (OK), Apply i OK. Ho fem amb els tres grups: gestio, magatzem i gerencia.
+I posem els grups. Acceptem (OK), Apply i OK. Ho fem amb els tres grups: gestio, magatzem i gerencia.
 
 ![I posem el grup: personal. Acceptem (OK), Apply i OK. Ho fem amb els tres grups: gestio, magatzem i gerencia.](img/Imatge13.png)
 
