@@ -67,7 +67,10 @@ admin
 
 1. Mostra l’accés a OpenVAS via web amb les credencials creades anteriorment. Veuràs que et surt un avís relatiu a la seguretat del certificat, ja que és un certificat autofirmat. Pots ignorar aquest avís.
 
-![Mostra l’accés a OpenVAS via web amb les credencials creades anteriorment. Veuràs que et surt un avís relatiu a la seguretat del certificat, ja que és un certificat autofirmat. Pots ignorar aquest avís.](img/Imatge07.png)
+Accés a OpenVAS via web amb les credencials creades anteriorment.
+
+![Mostra l’accés a OpenVAS via web amb les credencials creades anteriorment. Veuràs que et surt un avís relatiu a la seguretat del certificat, ja que és un certificat autofirmat. Pots ignorar aquest avís.
+Accés a OpenVAS via web amb les credencials creades anteriorment.](img/Imatge07.png)
 
 2. Afegeix la IP de la màquina vulnerable com a Host.
 
@@ -214,9 +217,7 @@ Desactiveu el servei rlogin i utilitzeu alternatives com ara SSH.
 
 rexec (client d'execució remota per a un servidor executiu) té el mateix tipus de funcionalitat que rsh: podeu executar ordres de shell en un ordinador remot.
 
-La principal diferència és que rexec s'autentica llegint el nom d'usuari i la          
-contrasenya *sense xifrar*            
-del sòcol.
+La principal diferència és que rexec s'autentica llegint el nom d'usuari i la contrasenya *sense xifrar* del sòcol.
 
 **Mètode de detecció**
 
