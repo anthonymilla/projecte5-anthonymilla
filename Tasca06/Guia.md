@@ -66,7 +66,7 @@ I posem els grups. Acceptem (OK), Apply i OK. Ho fem amb els tres grups: gestio,
 
 ![I posem els grups. Acceptem (OK), Apply i OK. Ho fem amb els tres grups: gestio, magatzem i gerencia.](img/Imatge13.png)
 
-![I posem els grups. Acceptem (OK), Apply i OK. Ho fem amb els tres grups: gestio, magatzem i gerencia.](img/Imatge13.2.png)
+![I posem els grups. Acceptem (OK), Apply i OK. Ho fem amb els tres grups: gestio, magatzem i gerencia.](img/Imatge13_.png)
 
 Resultats:
 
