@@ -84,6 +84,40 @@ Cada plantilla ha de tenir definida la pertinença al grup i la creació de la c
 
 
 
+![Resultats:](img/Imatge15.png)
+
+![Resultats:](img/Imatge16.png)
+
+![Resultats:](img/Imatge17.png)
+
+![Resultats:](img/Imatge18.png)
+
+![Resultats:](img/Imatge19.png)
+
+![Resultats:](img/Imatge20.png)
+
+![Resultats:](img/Imatge21.png)
+
+![Resultats:](img/Imatge22.png)
+
+![Resultats:](img/Imatge23.png)
+
+![Resultats:](img/Imatge24.png)
+
+![Resultats:](img/Imatge25.png)
+
+![Resultats:](img/Imatge26.png)
+
+![Resultats:](img/Imatge27.png)
+
+![Resultats:](img/Imatge28.png)
+
+![Resultats:](img/Imatge29.png)
+
+![Resultats:](img/Imatge30.png)
+
+
+
 - Definir un usuari de prova per cadascuna de les plantilles.
 
 
