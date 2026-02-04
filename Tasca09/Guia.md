@@ -195,11 +195,11 @@ control complet sobre el sistema de destinació.
 **Tipus de solució:** Mitigació          
 Desactiveu el servei rlogin i utilitzeu alternatives com ara SSH.
 
-- Següent vulnerabilitat. 
+-Següent vulnerabilitat. 
 
-![Següent vulnerabilitat. ](img/Imatge28.png)
+![-Següent vulnerabilitat. ](img/Imatge28.png)
 
-![Següent vulnerabilitat. ](img/Imatge29.png)
+![-Següent vulnerabilitat. ](img/Imatge29.png)
 
 - **Descripció de la vulnerabilitat incloent el seu CVE.**
 - **Nivell de gravetat.**
@@ -227,11 +227,11 @@ Comprova si un servei rexec està exposat a l'amfitrió de destinació.
 **Tipus de solució:** Mitigació          
 Desactiveu el servei rexec i utilitzeu alternatives com ara SSH en el seu lloc.
 
-- Següent vulnerabilitat. 
+-Següent vulnerabilitat. 
   
-![Següent vulnerabilitat. ](img/Imatge30.png)
+![-Següent vulnerabilitat. ](img/Imatge30.png)
 
-![Següent vulnerabilitat. ](img/Imatge31.png)
+![-Següent vulnerabilitat. ](img/Imatge31.png)
 
 - **Descripció de la vulnerabilitat incloent el seu CVE.**
 - **Nivell de gravetat.**
@@ -262,11 +262,11 @@ Nota / Important: Si us plau, crea una anul·lació per a aquest resultat si l'a
 
 - Sistema amb actualitzacions de seguretat addicionals de tercers / no venedores, com per exemple actualitzacions com e.g. de 'TuxCare', 'Freexian Extended LTS' o similar.
 
-- Següent vulnerabilitat. 
+-Següent vulnerabilitat. 
 
-![Següent vulnerabilitat. ](img/Imatge32.png)
+![-Següent vulnerabilitat. ](img/Imatge32.png)
 
-![Següent vulnerabilitat. ](img/Imatge33.png)
+![-Següent vulnerabilitat. ](img/Imatge33.png)
 
 - **Descripció de la vulnerabilitat incloent el seu CVE.**
 - **Nivell de gravetat.**
