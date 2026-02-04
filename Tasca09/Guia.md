@@ -121,7 +121,7 @@ Fem l'anàlisi (Play).
 
 ![Fem l'anàlisi (Play).](img/Imatge19.png)
 
-* Aquest procés pot ser lent, si veieu que us queda poc temps, cancel·leu l’anàlisi i treballeu amb els resultats obtinguts.
+*Aquest procés pot ser lent, si veieu que us queda poc temps, cancel·leu l’anàlisi i treballeu amb els resultats obtinguts.
 
 El vaig deixar més d’1 hora i encara no havia acabat, estava al 94% i vaig treballar amb els resultats obtinguts.
 
@@ -165,7 +165,130 @@ Documenta bé en un arxiu de Google Docs (assegura't de compartir-lo amb el teu 
 
 -Mesures de mitigació proposades.
 
+Anem a Scans, Vulnerabilities i entrem a 4 vulnerabilitats trobades.
 
+![Anem a Scans, Vulnerabilities i entrem a 4 vulnerabilitats trobades.](img/Imatge26.png)
+
+![Anem a Scans, Vulnerabilities i entrem a 4 vulnerabilitats trobades.](img/Imatge27.png)
+
+- **Descripció de la vulnerabilitat incloent el seu CVE.**
+- **Nivell de gravetat.**
+
+![-Descripció de la vulnerabilitat incloent el seu CVE.
+-Nivell de gravetat.](img/Imatge27_2.png)
+
+- **Possible explotació.**
+- **Mesures de mitigació proposades.**
+
+**Mètode de detecció**
+
+Comprova si hi ha una versió vulnerable a l'amfitrió de destinació.                     
+Qualitat de la detecció: remote_banner (80%)
+
+**Impacte**
+
+Aquesta vulnerabilitat permet a un atacant obtenir                  
+control complet sobre el sistema de destinació.
+
+**Solució**
+
+**Tipus de solució:** Mitigació          
+Desactiveu el servei rlogin i utilitzeu alternatives com ara SSH.
+
+- Següent vulnerabilitat. 
+
+![Següent vulnerabilitat. ](img/Imatge28.png)
+
+![Següent vulnerabilitat. ](img/Imatge29.png)
+
+- **Descripció de la vulnerabilitat incloent el seu CVE.**
+- **Nivell de gravetat.**
+
+![-Descripció de la vulnerabilitat incloent el seu CVE.
+-Nivell de gravetat.](img/Imatge29_2.png)
+
+- **Possible explotació.**
+- **Mesures de mitigació proposades.**
+
+**Visió**
+
+rexec (client d'execució remota per a un servidor executiu) té el mateix tipus de funcionalitat que rsh: podeu executar ordres de shell en un ordinador remot.
+
+La principal diferència és que rexec s'autentica llegint el nom d'usuari i la contrasenya *sense xifrar*
+del sòcol.
+
+**Mètode de detecció**
+
+Comprova si un servei rexec està exposat a l'amfitrió de destinació.           
+**Qualitat de la detecció:** remote_banner (80%)
+
+**Solució**
+
+**Tipus de solució:** Mitigació          
+Desactiveu el servei rexec i utilitzeu alternatives com ara SSH en el seu lloc.
+
+- Següent vulnerabilitat. 
+  
+![Següent vulnerabilitat. ](img/Imatge30.png)
+
+![Següent vulnerabilitat. ](img/Imatge31.png)
+
+- **Descripció de la vulnerabilitat incloent el seu CVE.**
+- **Nivell de gravetat.**
+
+![-Descripció de la vulnerabilitat incloent el seu CVE.
+-Nivell de gravetat.](img/Imatge31_2.png)
+
+- **Possible explotació.**
+- **Mesures de mitigació proposades.**
+
+**Mètode de Detecció**
+
+Comprova si una versió EOL d'un SO està present en l'amfitrió objectiu.                
+**Qualitat de Detecció:** remote_banner (80%)
+
+**Impacte**
+
+Una versió EOL d'un SO no està rebent actualitzacions de seguretat del venedor. Vulnerabilitats de seguretat sense corregir podrien ser aprofitades per un atacant per comprometre la seguretat d'aquest amfitrió.
+
+**Solució**
+
+**Tipus de Solució:** Mitigació      
+Actualitza el SO en l'amfitrió remot a una versió que encara estigui suportada i rebent actualitzacions de seguretat pel venedor.
+
+Nota / Important: Si us plau, crea una anul·lació per a aquest resultat si l'amfitrió objectiu és un:
+
+- Sistema Windows amb Actualitzacions de Seguretat Esteses (ESU)
+
+- Sistema amb actualitzacions de seguretat addicionals de tercers / no venedores, com per exemple actualitzacions com e.g. de 'TuxCare', 'Freexian Extended LTS' o similar.
+
+- Següent vulnerabilitat. 
+
+![Següent vulnerabilitat. ](img/Imatge32.png)
+
+![Següent vulnerabilitat. ](img/Imatge33.png)
+
+- **Descripció de la vulnerabilitat incloent el seu CVE.**
+- **Nivell de gravetat.**
+
+![-Descripció de la vulnerabilitat incloent el seu CVE.
+-Nivell de gravetat.](img/Imatge33_2.png)
+
+- **Possible explotació.**
+- **Mesures de mitigació proposades.**
+
+**Mètode de Detecció**
+
+**Qualitat de Detecció:** remote_vul (99%)
+
+**Impacte**
+
+Els atacants poden explotar aquest problema per executar comandes arbitràries en el context de l'aplicació. Atacs reeixits comprometran el sistema afectat.
+
+**Solució**
+
+**Tipus de Solució:** Solució alternativa      
+Es recomana una neteja completa del sistema infectat.
 
 [Anar a l'enunciat](../Tasca09/README.md)  
 [Anar a la pàgina inicial](../README.md)
