@@ -24,13 +24,13 @@ Anem a AD DS, fem click dret i anem a Active Directory Users and Computers (Usua
 
 ![Anem a AD DS, fem click dret i anem a Active Directory Users and Computers (Usuaris i ordinadors d'Active Directory).](img/Imatge04.png)
 
-Ara creem la següent estructura d’unitats organitzatives: Grups i Usuaris.
+Ara creem la següent estructura d’unitats organitzatives: Grups i Usuaris. Creem aquestes 2 ja que així s’entén millor amb la pràctica, és més ordenat i clar i té més sentit.
 
-![Ara creem la següent estructura d’unitats organitzatives: Grups i Usuaris.](img/Imatge05.png)
+![Ara creem la següent estructura d’unitats organitzatives: Grups i Usuaris. Creem aquestes 2 ja que així s’entén millor amb la pràctica, és més ordenat i clar i té més sentit.](img/Imatge05.png)
 
-![Ara creem la següent estructura d’unitats organitzatives: Grups i Usuaris.](img/Imatge06.png)
+![Ara creem la següent estructura d’unitats organitzatives: Grups i Usuaris. Creem aquestes 2 ja que així s’entén millor amb la pràctica, és més ordenat i clar i té més sentit.](img/Imatge06.png)
 
-![Ara creem la següent estructura d’unitats organitzatives: Grups i Usuaris.](img/Imatge07.png)
+![Ara creem la següent estructura d’unitats organitzatives: Grups i Usuaris. Creem aquestes 2 ja que així s’entén millor amb la pràctica, és més ordenat i clar i té més sentit.](img/Imatge07.png)
 
 Resultat:
 
