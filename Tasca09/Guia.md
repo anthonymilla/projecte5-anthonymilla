@@ -214,7 +214,8 @@ Desactiveu el servei rlogin i utilitzeu alternatives com ara SSH.
 
 rexec (client d'execució remota per a un servidor executiu) té el mateix tipus de funcionalitat que rsh: podeu executar ordres de shell en un ordinador remot.
 
-La principal diferència és que rexec s'autentica llegint el nom d'usuari i la contrasenya *sense xifrar*
+La principal diferència és que rexec s'autentica llegint el nom d'usuari i la          
+contrasenya *sense xifrar*            
 del sòcol.
 
 **Mètode de detecció**
