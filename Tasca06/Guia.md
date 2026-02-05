@@ -134,9 +134,9 @@ Ara canviem els permisos dels usuaris del grup “Domain Users” perquè només
 
 ![Canviem els permisos dels usuaris del grup “Domain Users” perquè només puguin llegir i escriure dins la seva carpeta personal.](img/Imatge28.png)
 
-Ara posem a Domain Users els permisos: Execute file, List folder/read data, Read attributes, Read extended attributes i Read permissions (Executar fitxer, Llistar carpeta/llegir dades, Llegir atributs, Llegir atributs estesos i Permisos de lectura).
+Ara posem a Domain Users els permisos: Execute file, List folder/read data, Read attributes, Read extended attributes, Create folders i Read permissions (Executar fitxer, Llistar carpeta/llegir dades, Llegir atributs, Llegir atributs estesos, Crear carpetas i Permisos de lectura).
 
-![Ara posem a Domain Users els permisos: Execute file, List folder/read data, Read attributes, Read extended attributes i Read permissions (Executar fitxer, Llistar carpeta/llegir dades, Llegir atributs, Llegir atributs estesos i Permisos de lectura).](img/Imatge28_.png)
+![Ara posem a Domain Users els permisos: Execute file, List folder/read data, Read attributes, Read extended attributes, Create folders i Read permissions (Executar fitxer, Llistar carpeta/llegir dades, Llegir atributs, Llegir atributs estesos, Crear carpetas i Permisos de lectura).](img/Imatge28_.png)
 
 Després al CREATOR OWNER habilitem totes les opcions.
 
