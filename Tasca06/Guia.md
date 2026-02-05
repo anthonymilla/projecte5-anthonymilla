@@ -130,9 +130,13 @@ I ara escollim l’opció de: Convert inherited permissions into explicit permis
 
 ![I ara escollim l’opció de: Convert inherited permissions into explicit permissions on this object (Converteix els permisos heretats en permisos explícits sobre aquest objecte).](img/Imatge27.png)
 
-Ara posem a Users els permisos: Execute file, List folder/read data i Create folders/append data (Executar fitxer, Llistar carpeta/llegir dades i Crear carpetes/afegir dades).
+Ara canviem els permisos dels usuaris del grup “Domain Users” perquè només puguin llegir i escriure dins la seva carpeta personal. Per això anem a Add i Select a principal.
 
-![Ara posem a Users els permisos: Execute file, List folder/read data i Create folders/append data (Executar fitxer, Llistar carpeta/llegir dades i Crear carpetes/afegir dades).](img/Imatge28.png)
+![Canviem els permisos dels usuaris del grup “Domain Users” perquè només puguin llegir i escriure dins la seva carpeta personal.](img/Imatge28.png)
+
+Ara posem a Domain Users els permisos: Execute file, List folder/read data, Read attributes, Read extended attributes i Read permissions (Executar fitxer, Llistar carpeta/llegir dades, Llegir atributs, Llegir atributs estesos i Permisos de lectura).
+
+![Ara posem a Domain Users els permisos: Execute file, List folder/read data, Read attributes, Read extended attributes i Read permissions (Executar fitxer, Llistar carpeta/llegir dades, Llegir atributs, Llegir atributs estesos i Permisos de lectura).](img/Imatge28_.png)
 
 Després al CREATOR OWNER habilitem totes les opcions.
 
