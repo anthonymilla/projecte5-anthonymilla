@@ -188,25 +188,61 @@ Fem aquest procediment amb tots 3 i hauria de quedar aixís:
 
 - Definir un usuari de prova per cadascuna de les plantilles.
 
+Fem click dret a una plantilla d’usuari i Copy.
 
+![Fem click dret a una plantilla d’usuari i Copy.](img/Imatge42.png)
 
-![Resultats:](img/Imatge42.png)
+Definim usuari de prova.
 
-![Resultats:](img/Imatge43.png)
+![Definim usuari de prova.](img/Imatge43.png)
 
-![Resultats:](img/Imatge44.png)
+Password i posem: User must change password at next logon (User must change password at next logon).
 
-![Resultats:](img/Imatge45.png)
+![Password i posem: User must change password at next logon (User must change password at next logon).](img/Imatge44.png)
 
-- Definir un usuari de prova per cadascuna de les plantilles.
+Fem aquest procediment de definir un usuari de prova per cadascuna de les plantilles.
 
+![Fem aquest procediment de definir un usuari de prova per cadascuna de les plantilles.](img/Imatge45.png)
 
+![Fem aquest procediment de definir un usuari de prova per cadascuna de les plantilles.](img/Imatge46.png)
+
+![Fem aquest procediment de definir un usuari de prova per cadascuna de les plantilles.](img/Imatge47.png)
+
+![Fem aquest procediment de definir un usuari de prova per cadascuna de les plantilles.](img/Imatge48.png)
+
+![Fem aquest procediment de definir un usuari de prova per cadascuna de les plantilles.](img/Imatge49.png)
+
+Resultats:
+
+![Resultats:](img/Imatge50.png)
+
+![Resultats:](img/Imatge51.png)
 
 - Aprovisionar un equip que anomenarem PC1 dins la OU equips.
 
+Creem una nou OU anomenada: equips.
 
+![Creem una nou OU anomenada: equips.](img/Imatge52.png)
+
+![Creem una nou OU anomenada: equips.](img/Imatge53.png)
+
+![Creem una nou OU anomenada: equips.](img/Imatge54.png)
+
+Ara fem click dret, New i Computer.
+
+![Ara fem click dret, New i Computer.](img/Imatge55.png)
+
+Aquest nou equip l’anomenem PC1.
+
+![Aquest nou equip l’anomenem PC1.](img/Imatge56.png)
+
+Resultat.
+
+![Resultat.](img/Imatge56.png)
 
 - Crear una VM amb Windows 11 amb 4 GB de RAM i disc suficient. La xarxa estarà en xarxa NAT. Un cop creat l’equip, agregeu-lo al domini.
+
+
 
 
 
