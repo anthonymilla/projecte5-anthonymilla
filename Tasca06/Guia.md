@@ -154,9 +154,9 @@ Comprovació, Share.
 
 ![Comprovació, Share.](img/Imatge32.png)
 
-Effective Access comprovació.
+Effective Access comprovació, per això anem a Select user, escollim i View effective access (Veure l'accés efectiu).
 
-![Effective Access comprovació.](img/Imatge33.png)
+![Effective Access comprovació, per això anem a Select user, escollim i View effective access (Veure l'accés efectiu).](img/Imatge33.png)
 
 ![Resultats:](img/Imatge34.png)
 
