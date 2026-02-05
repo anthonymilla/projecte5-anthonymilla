@@ -210,31 +210,29 @@ Fem aquest procediment de definir un usuari de prova per cadascuna de les planti
 
 ![Fem aquest procediment de definir un usuari de prova per cadascuna de les plantilles.](img/Imatge48.png)
 
-![Fem aquest procediment de definir un usuari de prova per cadascuna de les plantilles.](img/Imatge49.png)
-
 Resultats:
 
-![Resultats:](img/Imatge50.png)
+![Resultats:](img/Imatge49.png)
 
-![Resultats:](img/Imatge51.png)
+![Resultats:](img/Imatge50.png)
 
 - Aprovisionar un equip que anomenarem PC1 dins la OU equips.
 
 Creem una nou OU anomenada: equips.
 
+![Creem una nou OU anomenada: equips.](img/Imatge51.png)
+
 ![Creem una nou OU anomenada: equips.](img/Imatge52.png)
 
 ![Creem una nou OU anomenada: equips.](img/Imatge53.png)
 
-![Creem una nou OU anomenada: equips.](img/Imatge54.png)
-
 Ara fem click dret, New i Computer.
 
-![Ara fem click dret, New i Computer.](img/Imatge55.png)
+![Ara fem click dret, New i Computer.](img/Imatge54.png)
 
 Aquest nou equip l’anomenem PC1.
 
-![Aquest nou equip l’anomenem PC1.](img/Imatge56.png)
+![Aquest nou equip l’anomenem PC1.](img/Imatge55.png)
 
 Resultat.
 
