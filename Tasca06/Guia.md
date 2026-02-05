@@ -146,13 +146,17 @@ Resum carpeta personal.
 
 ![Resum carpeta personal.](img/Imatge30.png)
 
+Comprovació, Carpeta compartida, Permissions.
 
+![Comprovació, Carpeta compartida, Permissions.](img/Imatge31.png)
 
-![Resultats:](img/Imatge31.png)
+Comprovació, Share.
 
-![Resultats:](img/Imatge32.png)
+![Comprovació, Share.](img/Imatge32.png)
 
-![Resultats:](img/Imatge33.png)
+Effective Access comprovació.
+
+![Effective Access comprovació.](img/Imatge33.png)
 
 ![Resultats:](img/Imatge34.png)
 
