@@ -24,13 +24,13 @@ Anem a AD DS, fem click dret i anem a Active Directory Users and Computers (Usua
 
 ![Anem a AD DS, fem click dret i anem a Active Directory Users and Computers (Usuaris i ordinadors d'Active Directory).](img/Imatge04.png)
 
-Ara creem la següent estructura d’unitats organitzatives: Grups i Usuaris. Creem aquestes 2 ja que així s’entén millor amb la pràctica, és més ordenat i clar i té més sentit.
+Ara creem la següent estructura d’unitats organitzatives: Grups i Usuaris. Creem aquestes 2 ja que així s’entén millor amb la pràctica, és més ordenat, clar i té més sentit.
 
-![Ara creem la següent estructura d’unitats organitzatives: Grups i Usuaris. Creem aquestes 2 ja que així s’entén millor amb la pràctica, és més ordenat i clar i té més sentit.](img/Imatge05.png)
+![Ara creem la següent estructura d’unitats organitzatives: Grups i Usuaris. Creem aquestes 2 ja que així s’entén millor amb la pràctica, és més ordenat, clar i té més sentit.](img/Imatge05.png)
 
-![Ara creem la següent estructura d’unitats organitzatives: Grups i Usuaris. Creem aquestes 2 ja que així s’entén millor amb la pràctica, és més ordenat i clar i té més sentit.](img/Imatge06.png)
+![Ara creem la següent estructura d’unitats organitzatives: Grups i Usuaris. Creem aquestes 2 ja que així s’entén millor amb la pràctica, és més ordenat, clar i té més sentit.](img/Imatge06.png)
 
-![Ara creem la següent estructura d’unitats organitzatives: Grups i Usuaris. Creem aquestes 2 ja que així s’entén millor amb la pràctica, és més ordenat i clar i té més sentit.](img/Imatge07.png)
+![Ara creem la següent estructura d’unitats organitzatives: Grups i Usuaris. Creem aquestes 2 ja que així s’entén millor amb la pràctica, és més ordenat, clar i té més sentit.](img/Imatge07.png)
 
 Resultat:
 
@@ -82,41 +82,97 @@ Resultats:
 
 Cada plantilla ha de tenir definida la pertinença al grup i la creació de la carpeta personal.
 
+Primerament, amb la màquina aturada, anem a Paràmetres, Emmagatzematge i afegim un nou disc de 5 GB que serà on tindrem tota la informació en xarxa: carpetes personals, dels grups, etc.
+
+![Primerament, amb la màquina aturada, anem a Paràmetres, Emmagatzematge i afegim un nou disc de 5 GB que serà on tindrem tota la informació en xarxa: carpetes personals, dels grups, etc.](img/Imatge15.png)
+
+Ara dins, al Disk Management (Gestió de discs) anem al nou disc, l’inicialitzem, el formatem i l’anomenem DATA:
+
+![Ara dins, al Disk Management (Gestió de discs) anem al nou disc, l’inicialitzem, el formatem i l’anomenem DATA:](img/Imatge16.png)
+
+![Ara dins, al Disk Management (Gestió de discs) anem al nou disc, l’inicialitzem, el formatem i l’anomenem DATA:](img/Imatge17.png)
+
+![Ara dins, al Disk Management (Gestió de discs) anem al nou disc, l’inicialitzem, el formatem i l’anomenem DATA:](img/Imatge18.png)
+
+Comprovació:
+
+![Comprovació:](img/Imatge19.png)
+
+Ara a DATA, creem una carpeta personal. Es crearan unes carpetes pròpies per cada usuari del directori.
+
+![Ara a DATA, creem una carpeta personal. Es crearan unes carpetes pròpies per cada usuari del directori.](img/Imatge20.png)
+
+Ara per això fem click dret a la carpeta i Properties (Propietats).
+
+![Ara per això fem click dret a la carpeta i Properties (Propietats).](img/Imatge21.png)
+
+Seguidament en Sharing (Compartint), anem a Advanced Sharing (Compartició avançada).
+
+![Seguidament en Sharing (Compartint), anem a Advanced Sharing (Compartició avançada).](img/Imatge22.png)
+
+Ara anem a permissions (permisos).
+
+![Ara anem a permissions (permisos).](img/Imatge23.png)
+
+I marquem les caselles de Full Control, Change i Read (Control total, canvi i lectura), guardem i ja tindriem els permisos compartits activats.
+
+![I marquem les caselles de Full Control, Change i Read (Control total, canvi i lectura), guardem i ja tindriem els permisos compartits activats.](img/Imatge24.png)
+
+Ara passem als permisos locals, aquesta vegada anem a Security i Advanced (perquè és on tenim un control molt més afinat dels permisos de la carpeta).
+
+![Ara passem als permisos locals, aquesta vegada anem a Security i Advanced (perquè és on tenim un control molt més afinat dels permisos de la carpeta).](img/Imatge25.png)
+
+Seguidament anem a Disable inheritance (Disable inheritance).
+
+![Seguidament anem a Disable inheritance (Disable inheritance).](img/Imatge26.png)
+
+I ara escollim l’opció de: Convert inherited permissions into explicit permissions on this object (Converteix els permisos heretats en permisos explícits sobre aquest objecte).
+
+![I ara escollim l’opció de: Convert inherited permissions into explicit permissions on this object (Converteix els permisos heretats en permisos explícits sobre aquest objecte).](img/Imatge27.png)
+
+Ara posem a Users els permisos: Execute file, List folder/read data i Create folders/append data (Executar fitxer, Llistar carpeta/llegir dades i Crear carpetes/afegir dades).
+
+![Ara posem a Users els permisos: Execute file, List folder/read data i Create folders/append data (Executar fitxer, Llistar carpeta/llegir dades i Crear carpetes/afegir dades).](img/Imatge28.png)
+
+Després al CREATOR OWNER habilitem totes les opcions.
+
+![Després al CREATOR OWNER habilitem totes les opcions.](img/Imatge29.png)
+
+Resum carpeta personal.
+
+![Resum carpeta personal.](img/Imatge30.png)
 
 
-![Resultats:](img/Imatge15.png)
 
-![Resultats:](img/Imatge16.png)
+![Resultats:](img/Imatge31.png)
 
-![Resultats:](img/Imatge17.png)
+![Resultats:](img/Imatge32.png)
 
-![Resultats:](img/Imatge18.png)
+![Resultats:](img/Imatge33.png)
 
-![Resultats:](img/Imatge19.png)
+![Resultats:](img/Imatge34.png)
 
-![Resultats:](img/Imatge20.png)
+![Resultats:](img/Imatge35.png)
 
-![Resultats:](img/Imatge21.png)
+![Resultats:](img/Imatge36.png)
 
-![Resultats:](img/Imatge22.png)
+![Resultats:](img/Imatge37.png)
 
-![Resultats:](img/Imatge23.png)
+![Resultats:](img/Imatge38.png)
 
-![Resultats:](img/Imatge24.png)
+![Resultats:](img/Imatge39.png)
 
-![Resultats:](img/Imatge25.png)
+![Resultats:](img/Imatge40.png)
 
-![Resultats:](img/Imatge26.png)
+![Resultats:](img/Imatge41.png)
 
-![Resultats:](img/Imatge27.png)
+![Resultats:](img/Imatge42.png)
 
-![Resultats:](img/Imatge28.png)
+![Resultats:](img/Imatge43.png)
 
-![Resultats:](img/Imatge29.png)
+![Resultats:](img/Imatge44.png)
 
-![Resultats:](img/Imatge30.png)
-
-
+![Resultats:](img/Imatge45.png)
 
 - Definir un usuari de prova per cadascuna de les plantilles.
 
