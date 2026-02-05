@@ -158,21 +158,37 @@ Effective Access comprovació, per això anem a Select user, escollim (Domain Us
 
 ![Effective Access comprovació, per això anem a Select user, escollim (Domain Users) i View effective access (Veure l'accés efectiu).](img/Imatge33.png)
 
-![Resultats:](img/Imatge34.png)
+Ara creem les plantilles d’usuari, fem click dret, New i User.
 
-![Resultats:](img/Imatge35.png)
+![Ara creem les plantilles d’usuari, fem click dret, New i User.](img/Imatge34.png)
 
-![Resultats:](img/Imatge36.png)
+Afegim.
 
-![Resultats:](img/Imatge37.png)
+![Afegim.](img/Imatge35.png)
 
-![Resultats:](img/Imatge38.png)
+No posem contrasenya, marquem la casellla de: Account is disabled (El compte està desactivat).
 
-![Resultats:](img/Imatge39.png)
+![No posem contrasenya, marquem la casellla de: Account is disabled (El compte està desactivat).](img/Imatge36.png)
 
-![Resultats:](img/Imatge40.png)
+Seguidament fem click dret a la plantilla d’usuari, Add to a group i afegim grup.
 
-![Resultats:](img/Imatge41.png)
+![Seguidament fem click dret a la plantilla d’usuari, Add to a group i afegim grup.](img/Imatge37.png)
+
+Ara anem a Properties, Profile i creem la carpeta personal (usem la variable %username% que és el nom d’usuari, així a cada usuari se li crea la seva carpeta). Apply i OK. 
+
+![Ara anem a Properties, Profile i creem la carpeta personal (usem la variable %username% que és el nom d’usuari, així a cada usuari se li crea la seva carpeta). Apply i OK. ](img/Imatge38.png)
+
+![Ara anem a Properties, Profile i creem la carpeta personal (usem la variable %username% que és el nom d’usuari, així a cada usuari se li crea la seva carpeta). Apply i OK. ](img/Imatge39.png)
+
+Fem aquest procediment amb tots 3 i hauria de quedar aixís:
+
+![Fem aquest procediment amb tots 3 i hauria de quedar aixís:](img/Imatge40.png)
+
+![Fem aquest procediment amb tots 3 i hauria de quedar aixís:](img/Imatge41.png)
+
+- Definir un usuari de prova per cadascuna de les plantilles.
+
+
 
 ![Resultats:](img/Imatge42.png)
 
