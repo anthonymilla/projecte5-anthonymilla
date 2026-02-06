@@ -315,7 +315,7 @@ Aquí faig la comprovació de com entrant amb el compte de N.Lozano no puc entra
 
 I aquí es veu com a la del N.Lozano sí que deixa (he creat un arxiu temporalment perquè es vegi que està sincronitzat).
 
-![I aquí es veu com a la del N.Lozano sí que deixa (he creat un arxiu temporalment perquè es vegi que està sincronitzat).](img/Imatge73.png)
+![I aquí es veu com a la del N.Lozano sí que deixa (he creat un arxiu temporalment perquè es vegi que està sincronitzat).](img/Imatge74.png)
 
 [Anar a l'enunciat](../Tasca06/README.md)  
 [Anar a la pàgina inicial](../README.md)
