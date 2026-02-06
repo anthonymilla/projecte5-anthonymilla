@@ -252,59 +252,63 @@ Una vegada creat l’equip corresponentment, primer canviem el nom del PC a PC-1
 
 ![Una vegada creat l’equip corresponentment, primer canviem el nom del PC a PC-1, per això anem a Sistema, Informació i canviar el nom d’aquest equip.](img/Imatge56.png)
 
+Una vegada creat l’equip corresponentment, primer canviem el nom del PC a PC-1, per això anem a Sistema, Informació i canviar el nom d’aquest equip.
+
+![Una vegada creat l’equip corresponentment, primer canviem el nom del PC a PC-1, per això anem a Sistema, Informació i canviar el nom d’aquest equip.](img/Imatge57.png)
+
 Ara anem a Xarxa i Internet, Ethernet i editem la configuració DNS, posem l’IP del DC de l’altre màquina i guardem.
 
-![Ara anem a Xarxa i Internet, Ethernet i editem la configuració DNS, posem l’IP del DC de l’altre màquina i guardem.](img/Imatge57.png)
+![Ara anem a Xarxa i Internet, Ethernet i editem la configuració DNS, posem l’IP del DC de l’altre màquina i guardem.](img/Imatge58.png)
 
 Ara anem a Sistema, Informació, Domini o grup de treball i en Nom d’equip anem a Canviar.
 
-![Ara anem a Sistema, Informació, Domini o grup de treball i en Nom d’equip anem a Canviar.](img/Imatge58.png)
+![Ara anem a Sistema, Informació, Domini o grup de treball i en Nom d’equip anem a Canviar.](img/Imatge59.png)
 
 I li posem el domini corresponent com podem veure:
 
-![I li posem el domini corresponent com podem veure:](img/Imatge59.png)
+![I li posem el domini corresponent com podem veure:](img/Imatge60.png)
 
 Ara hem de posar el nom d’usuari i contrasenya: Administrator i P@ssw0rd
 
-![Ara hem de posar el nom d’usuari i contrasenya: Administrator i P@ssw0rd](img/Imatge60.png)
+![Ara hem de posar el nom d’usuari i contrasenya: Administrator i P@ssw0rd](img/Imatge61.png)
 
 I ara ja ens diu que s’ha unit correctament al domini translogic21.test i l’ordinador es reiniciarà.
 
-![I ara ja ens diu que s’ha unit correctament al domini translogic21.test i l’ordinador es reiniciarà.](img/Imatge61.png)
+![I ara ja ens diu que s’ha unit correctament al domini translogic21.test i l’ordinador es reiniciarà.](img/Imatge62.png)
 
 - Comprovar el correcte funcionament, iniciant sessió a l’equip client amb els tres usuaris de prova.
 
 Ara fem la comprovació amb els tres usuaris de prova (ens assegurem que iniciem sessió al domini i no a l’equip local).
 
-![Ara fem la comprovació amb els tres usuaris de prova (ens assegurem que iniciem sessió al domini i no a l’equip local).](img/Imatge62.png)
+![Ara fem la comprovació amb els tres usuaris de prova (ens assegurem que iniciem sessió al domini i no a l’equip local).](img/Imatge63.png)
 
 Fem el canvi de contrasenya, ja que havíem marcat aquesta opció anteriorment per quan entressim.
 
-![Fem el canvi de contrasenya, ja que havíem marcat aquesta opció anteriorment per quan entressim.](img/Imatge63.png)
+![Fem el canvi de contrasenya, ja que havíem marcat aquesta opció anteriorment per quan entressim.](img/Imatge64.png)
 
 Entra correctament.
 
-![Entra correctament.](img/Imatge64.png)
+![Entra correctament.](img/Imatge65.png)
 
 Ara veiem com s’ha muntat unitat corresponent a la carpeta personal de l’usuari.
 
-![Ara veiem com s’ha muntat unitat corresponent a la carpeta personal de l’usuari.](img/Imatge65.png)
+![Ara veiem com s’ha muntat unitat corresponent a la carpeta personal de l’usuari.](img/Imatge66.png)
 
 Següent comprovació:
-
-![Següent comprovació:](img/Imatge66.png)
 
 ![Següent comprovació:](img/Imatge67.png)
 
 ![Següent comprovació:](img/Imatge68.png)
 
-Següent i última comprovació: 
+![Següent comprovació:](img/Imatge69.png)
 
-![Següent i última comprovació:](img/Imatge69.png)
+Següent i última comprovació: 
 
 ![Següent i última comprovació:](img/Imatge70.png)
 
 ![Següent i última comprovació:](img/Imatge71.png)
+
+![Següent i última comprovació:](img/Imatge72.png)
 
 [Anar a l'enunciat](../Tasca06/README.md)  
 [Anar a la pàgina inicial](../README.md)
