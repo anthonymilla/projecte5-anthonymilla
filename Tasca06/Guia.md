@@ -146,6 +146,8 @@ Resum carpeta personal.
 
 ![Resum carpeta personal.](img/Imatge30.png)
 
+*Aquest, per configurar la carpeta compartida, si no funciona per això, hem d’anar a domain users, edit, a Domain Users en els permisos marquem l’opció de Read/Write (Llegir/Escriure) i a la carpeta que hem creat (personal) com abans hem fet amb Everyone, marquem les caselles de Full Control, Change i Read (Control total, canvi i lectura). 
+
 Comprovació, Carpeta compartida, Permissions.
 
 ![Comprovació, Carpeta compartida, Permissions.](img/Imatge31.png)
