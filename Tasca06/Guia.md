@@ -250,10 +250,6 @@ Resultat.
 
 Una vegada creat l’equip corresponentment, primer canviem el nom del PC a PC-1, per això anem a Sistema, Informació i canviar el nom d’aquest equip.
 
-![Una vegada creat l’equip corresponentment, primer canviem el nom del PC a PC-1, per això anem a Sistema, Informació i canviar el nom d’aquest equip.](img/Imatge56.png)
-
-Una vegada creat l’equip corresponentment, primer canviem el nom del PC a PC-1, per això anem a Sistema, Informació i canviar el nom d’aquest equip.
-
 ![Una vegada creat l’equip corresponentment, primer canviem el nom del PC a PC-1, per això anem a Sistema, Informació i canviar el nom d’aquest equip.](img/Imatge57.png)
 
 Ara anem a Xarxa i Internet, Ethernet i editem la configuració DNS, posem l’IP del DC de l’altre màquina i guardem.
