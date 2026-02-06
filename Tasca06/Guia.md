@@ -309,5 +309,13 @@ Següent i última comprovació:
 
 ![Següent i última comprovació:](img/Imatge72.png)
 
+Aquí faig la comprovació de com entrant amb el compte de N.Lozano no puc entrar a una altra carpeta que no sigui la seva, per exemple intento entrar a la del B.Batalla i no deixa obtenir l'accés.
+
+![Aquí faig la comprovació de com entrant amb el compte de N.Lozano no puc entrar a una altra carpeta que no sigui la seva, per exemple intento entrar a la del B.Batalla i no deixa obtenir l'accés.](img/Imatge73.png)
+
+I aquí es veu com a la del N.Lozano sí que deixa (he creat un arxiu temporalment perquè es vegi que està sincronitzat).
+
+![I aquí es veu com a la del N.Lozano sí que deixa (he creat un arxiu temporalment perquè es vegi que està sincronitzat).](img/Imatge73.png)
+
 [Anar a l'enunciat](../Tasca06/README.md)  
 [Anar a la pàgina inicial](../README.md)
