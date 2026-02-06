@@ -212,11 +212,11 @@ Fem aquest procediment de definir un usuari de prova per cadascuna de les planti
 
 Carpeta personal (usem la variable %username% que és el nom d’usuari, així a cada usuari se li crea la seva carpeta). Apply i OK. En Z ja que en D no es munta la unitat corresponent a la carpeta personal de l’usuari.
 
-![Resultats:](img/Imatge48_.png)
+![Carpeta personal (usem la variable %username% que és el nom d’usuari, així a cada usuari se li crea la seva carpeta). Apply i OK. En Z ja que en D no es munta la unitat corresponent a la carpeta personal de l’usuari.](img/Imatge48_.png)
 
-![Resultats:](img/Imatge48_1.png)
+![Carpeta personal (usem la variable %username% que és el nom d’usuari, així a cada usuari se li crea la seva carpeta). Apply i OK. En Z ja que en D no es munta la unitat corresponent a la carpeta personal de l’usuari.](img/Imatge48_1.png)
 
-![Resultats:](img/Imatge48_2.png)
+![Carpeta personal (usem la variable %username% que és el nom d’usuari, així a cada usuari se li crea la seva carpeta). Apply i OK. En Z ja que en D no es munta la unitat corresponent a la carpeta personal de l’usuari.](img/Imatge48_2.png)
 
 Resultats:
 
