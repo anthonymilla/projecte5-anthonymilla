@@ -250,7 +250,39 @@ Resultat.
 
 
 
+![Resultat.](img/Imatge56.png)
 
+![Resultat.](img/Imatge57.png)
+
+![Resultat.](img/Imatge58.png)
+
+![Resultat.](img/Imatge59.png)
+
+![Resultat.](img/Imatge60.png)
+
+![Resultat.](img/Imatge61.png)
+
+![Resultat.](img/Imatge62.png)
+
+![Resultat.](img/Imatge63.png)
+
+![Resultat.](img/Imatge64.png)
+
+![Resultat.](img/Imatge65.png)
+
+![Resultat.](img/Imatge66.png)
+
+![Resultat.](img/Imatge67.png)
+
+![Resultat.](img/Imatge68.png)
+
+![Resultat.](img/Imatge69.png)
+
+![Resultat.](img/Imatge70.png)
+
+![Resultat.](img/Imatge71.png)
+
+![Resultat.](img/Imatge71.png)
 
 - Comprovar el correcte funcionament, iniciant sessió a l’equip client amb els tres usuaris de prova.
 
