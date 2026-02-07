@@ -1,8 +1,4 @@
-```
-#
-# Windows PowerShell script for AD DS Deployment
-#
-
+# Script en PowerShell per desplegar el domini
 Import-Module ADDSDeployment
 Install-ADDSForest `
 -CreateDnsDelegation:$false `
@@ -16,6 +12,3 @@ Install-ADDSForest `
 -NoRebootOnCompletion:$false `
 -SysvolPath "C:\WINDOWS\SYSVOL" `
 -Force:$true
-```
-
-[Arxiu](https://drive.google.com/file/d/1fbbRB4azYnomreqkp8aWJkOULHEah7qf/view?usp=drive_link)
