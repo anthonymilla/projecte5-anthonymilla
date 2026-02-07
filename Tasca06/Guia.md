@@ -3,7 +3,7 @@
 | Introducció |
 |----------------------------------------|
 
-Un cop tenim ja el nostre domini creat, el següent pas, és desplegar el domini, és a dir, crear els diferents objectes que el formaran: grups, usuaris, màquines. Aquí veurem la utilitat d’organitzar els objectes amb unitats organitzatives (OU).
+## Un cop tenim ja el nostre domini creat, el següent pas, és desplegar el domini, és a dir, crear els diferents objectes que el formaran: grups, usuaris, màquines. Aquí veurem la utilitat d’organitzar els objectes amb unitats organitzatives (OU).
 
 Tenim l’opció de tenir una paperera de reciclatge pels objectes del directori, així si esborrem per error un objecte de l’AD el podrem recuperar.
 
@@ -18,7 +18,7 @@ Després de seleccionar, d’haver confirmat i refrescat el Manager ens surt.
 | Procediment pràctic |
 |----------------------------------------|
 
-- Crear la següent estructura d’unitats organitzatives:
+- ## Crear la següent estructura d’unitats organitzatives: Grups i Usuaris.
 
 Anem a AD DS, fem click dret i anem a Active Directory Users and Computers (Usuaris i ordinadors d'Active Directory).
 
@@ -36,15 +36,15 @@ Resultat:
 
 ![Resultat](img/Imatge08.png)
 
-- Definir la següent estructura de grups:
+- **Definir la següent estructura de grups:**
 
--gestio
+-**gestio**
 
--magatzem
+-**magatzem**
 
--gerencia
+-**gerencia**
 
--personal (tots els grups anteriors han de ser membres d’aquest grup)
+-**personal (tots els grups anteriors han de ser membres d’aquest grup)**
 
 Anem a Grups, click dret, New i Group.
 
@@ -72,15 +72,15 @@ Resultats:
 
 ![Resultats:](img/Imatge14.png)
 
-- Crear una plantilla d’usuari per cadascun dels grups:
+- **Crear una plantilla d’usuari per cadascun dels grups:**
 
--Gestio
+-**Gestio**
 
--Magatzem
+-**Magatzem**
 
--Gerencia
+-**Gerencia**
 
-Cada plantilla ha de tenir definida la pertinença al grup i la creació de la carpeta personal.
+**Cada plantilla ha de tenir definida la pertinença al grup i la creació de la carpeta personal.**
 
 Primerament, amb la màquina aturada, anem a Paràmetres, Emmagatzematge i afegim un nou disc de 5 GB que serà on tindrem tota la informació en xarxa: carpetes personals, dels grups, etc.
 
@@ -189,7 +189,7 @@ Fem aquest procediment amb tots 3 i hauria de quedar aixís:
 
 ![Fem aquest procediment amb tots 3 i hauria de quedar aixís:](img/Imatge41.png)
 
-- Definir un usuari de prova per cadascuna de les plantilles.
+- **Definir un usuari de prova per cadascuna de les plantilles.**
 
 Fem click dret a una plantilla d’usuari i Copy.
 
@@ -227,7 +227,7 @@ Resultats:
 
 ![Resultats:](img/Imatge50.png)
 
-- Aprovisionar un equip que anomenarem PC1 dins la OU equips.
+- **Aprovisionar un equip que anomenarem PC1 dins la OU equips.**
 
 Creem una nou OU anomenada: equips.
 
