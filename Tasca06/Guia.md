@@ -249,7 +249,7 @@ Resultat.
 
 ![Resultat.](img/Imatge56.png)
 
-- Crear una VM amb Windows 11 amb 4 GB de RAM i disc suficient. La xarxa estarà en xarxa NAT. Un cop creat l’equip, agregeu-lo al domini.
+- **Crear una VM amb Windows 11 amb 4 GB de RAM i disc suficient. La xarxa estarà en xarxa NAT. Un cop creat l’equip, agregeu-lo al domini.**
 
 Una vegada creat l’equip corresponentment, primer canviem el nom del PC a PC-1, per això anem a Sistema, Informació i canviar el nom d’aquest equip.
 
@@ -275,7 +275,7 @@ I ara ja ens diu que s’ha unit correctament al domini translogic21.test i l’
 
 ![I ara ja ens diu que s’ha unit correctament al domini translogic21.test i l’ordinador es reiniciarà.](img/Imatge62.png)
 
-- Comprovar el correcte funcionament, iniciant sessió a l’equip client amb els tres usuaris de prova.
+- **Comprovar el correcte funcionament, iniciant sessió a l’equip client amb els tres usuaris de prova.**
 
 Ara fem la comprovació amb els tres usuaris de prova (ens assegurem que iniciem sessió al domini i no a l’equip local).
 
