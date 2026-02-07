@@ -18,7 +18,7 @@ Després de seleccionar, d’haver confirmat i refrescat el Manager ens surt.
 | Procediment pràctic |
 |----------------------------------------|
 
-- ## Crear la següent estructura d’unitats organitzatives: Grups i Usuaris.
+- ## Crear una estructura d’unitats organitzatives que sigui coherent i justificar la decisió: Grups i Usuaris.
 
 Anem a AD DS, fem click dret i anem a Active Directory Users and Computers (Usuaris i ordinadors d'Active Directory).
 
