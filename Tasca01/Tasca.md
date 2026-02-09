@@ -4,3 +4,5 @@
 
 [Enllaç a la presentació](https://docs.google.com/document/d/1MKiNuMYsmHd7Vf8YHX3y_U2Sicuvuto2PeUD80fU2r4/edit?usp=drive_link)
 
+[Anar a l'enunciat](../Tasca01/README.md)  
+[Anar a la pàgina inicial](../README.md)
