@@ -374,4 +374,5 @@ Document amb:
 
 Tot amb IA com a accelerador, però defensat amb criteri.
 
+[Anar a la Guia](../Tasca01/Tasca.md)     
 [Anar a la pàgina inicial](../README.md)
