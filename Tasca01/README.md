@@ -374,5 +374,6 @@ Document amb:
 
 Tot amb IA com a accelerador, però defensat amb criteri.
 
-[Anar a la Guia](../Tasca01/Tasca.md)     
+[Anar a la Guia](../Tasca01/Tasca.md)
+[Anar al Packet Tracer](../Tasca01/Xarxa local de treball.pkt)     
 [Anar a la pàgina inicial](../README.md)
