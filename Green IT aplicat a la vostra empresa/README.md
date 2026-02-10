@@ -1,13 +1,13 @@
 # NILAN – Green IT aplicat a serveis de còpies de seguretat
 
-## A) Presentació del projecte
+## A) Presentació del nostre projecte
 NILAN és una empresa dedicada a les còpies de seguretat (backups) per a petites i mitjanes empreses.  
 Volem aplicar Green IT per reduir consum energètic, minimitzar residus electrònics i oferir serveis més eficients i responsables.  
 Com diu el nostre treball: “A NILAN comprem equips eficients, durables i amb bona reparabilitat” i prioritzem configuracions d’estalvi d’energia.
 
 ---
 
-## B) Què és el Green IT?
+## B) Definició de Green IT
 El Green IT és un conjunt de pràctiques per reduir l’impacte ambiental de la tecnologia.  
 Vol resoldre problemes com el consum excessiu d’energia, la generació de RAEE i la vida útil curta dels equips.
 
@@ -17,7 +17,7 @@ Vol resoldre problemes com el consum excessiu d’energia, la generació de RAEE
 
 ---
 
-## C) Àmbits d’aplicació del Green IT
+## C) Àmbits on es pot aplicar el Green IT
 
 ### 1. Hardware
 **Mesures possibles:**
@@ -69,7 +69,7 @@ Vol resoldre problemes com el consum excessiu d’energia, la generació de RAEE
 
 ---
 
-## D) Diccionari Green IT (10 termes)
+## D) Diccionari/Vocabulari Green IT (10 termes)
 
 | Terme | Definició | Exemple |
 |-------|-----------|---------|
@@ -154,7 +154,7 @@ Per garantir traçabilitat:
 - Justificant del gestor RAEE.  
 
 En discos durs:  
--> Esborrat segur abans de reutilitzar o reciclar.
+- Esborrat segur abans de reutilitzar o reciclar.
 
 ---
 
