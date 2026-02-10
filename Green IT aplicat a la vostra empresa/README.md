@@ -154,7 +154,7 @@ Per garantir traçabilitat:
 - Justificant del gestor RAEE.  
 
 En discos durs:  
-→ Esborrat segur abans de reutilitzar o reciclar.
+-> Esborrat segur abans de reutilitzar o reciclar.
 
 ---
 
