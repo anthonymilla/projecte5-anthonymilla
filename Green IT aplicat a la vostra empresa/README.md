@@ -159,9 +159,9 @@ En discos durs:
 ---
 
 ## I) Fonts consultades
-- opensistemas.com  
-- innovaciondigital360.com  
-- HP Tech Takes  
-- iFixit  
-- Amazon Renewed
-
+- [opensistemas.com](https://opensistemas.com/green-it/)  
+- [innovaciondigital360.com](https://www.innovaciondigital360.com/industria-4-0/green-computing-que-es-ejemplos-y-objetivos/)
+- [Resumen-ejecutivo_radardigital_tecnologia-y-sostenibilidad](https://drive.google.com/file/d/1fLwRgLvAGXv16gZuB0tGom2qb002tMtK/view?usp=drive_link)
+- [HP Tech Takes](https://www.hp.com/us-en/shop/tech-takes/hp-computers-made-with-oceanbound-plastics)  
+- [ifixit.com in Bing](http://ifixit.com)
+- [amazon.com in Bing](http://amazon.com)
