@@ -19,3 +19,6 @@ Petita empresa amb 12 treballadors, dades al núvol i servidor local.
 
 ## Indicador associat
 **Consum energètic del servidor (kWh)**.
+
+[Anar a README.md](../Green_IT_aplicat_a_la_vostra_empresa/README.md)           
+[Anar a la pàgina inicial](../README.md)
