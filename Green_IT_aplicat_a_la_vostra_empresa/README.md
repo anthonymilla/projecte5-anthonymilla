@@ -166,3 +166,5 @@ En discos durs:
 - [ifixit.com in Bing](http://ifixit.com)
 - [amazon.com in Bing](http://amazon.com)
 
+[Anar a /Docs](..//Docs)           
+[Anar a la pàgina inicial](../README.md)
