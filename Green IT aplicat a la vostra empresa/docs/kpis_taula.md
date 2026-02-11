@@ -1,4 +1,4 @@
-# Taula de KPIs – NILAN (Green IT)
+# Taula de KPIs – NILAN 
 
 | Indicador                    | Què mesura               | Com es calcula            | Freqüència | Objectiu     |
 |------------------------------|---------------------------|----------------------------|------------|--------------|
