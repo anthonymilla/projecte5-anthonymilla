@@ -26,3 +26,5 @@ Ordre de prioritat:
 ## 6. Registre final
 - Actualitzar fitxer RAEE.
 - Guardar comprovants.
+
+[Anar a README.md](../README.md)
