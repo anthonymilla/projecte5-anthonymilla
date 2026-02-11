@@ -6,3 +6,5 @@
 | Emissions CO₂ evitades       | Emissions reduïdes       | kWh estalviats -> CO₂       | Trimestral | -10% anual   |
 | Dades duplicades eliminades  | Optimització d’espai     | % deduplicació             | Mensual    | >20%         |
 | RAEE gestionat               | Equips reciclats         | Registre + justificant     | Trimestral | 100%         |
+
+[Anar a README.md](../README.md)
