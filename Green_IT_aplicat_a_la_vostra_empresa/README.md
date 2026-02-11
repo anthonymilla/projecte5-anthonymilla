@@ -166,5 +166,5 @@ En discos durs:
 - [ifixit.com in Bing](http://ifixit.com)
 - [amazon.com in Bing](http://amazon.com)
 
-[Anar a /Docs](../Green_IT_aplicat_a_la_vostra_empresa/Docs)           
+[Anar a /docs](../Green_IT_aplicat_a_la_vostra_empresa/docs)           
 [Anar a la pàgina inicial](../README.md)
