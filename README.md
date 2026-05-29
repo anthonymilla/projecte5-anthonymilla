@@ -47,20 +47,36 @@ Bona sort! 🚀
 
 ---
 
-## Tasques
+## Tasques:
+
 - [Green IT aplicat a la vostra empresa](/Green_IT_aplicat_a_la_vostra_empresa)
-- [Tasca0-Presentació del projecte i dinàmica de DESIGN THINKING](/Tasca00)
-- [Tasca1-Disseny de la Solució Tècnica Integrada](/Tasca01)
-- [Tasca2-Control de versions. Treballant amb git](/Tasca02)
-- [Tasca3-Serveis de transferència de fitxers](/Tasca03)
-- [Tasca4-Instal·lació Windows Server 2025](/Tasca04)
-- [Tasca5-Instal·lació del domini](/Tasca05)
-- [Tasca6-Configuració del domini](/Tasca06)
-- [Tasca7-Acadèmia feta amb Moodle](/Tasca07)
-- [Tasca8-Seguretat: protegint-nos contra el malware](/Tasca08)
-- [Tasca9-Seguretat: les vulnerabilitats dels sistemes](/Tasca09)
+
+- [Tasca00-Presentació del projecte i dinàmica de DESIGN THINKING](/Tasca00)
+
+- [Tasca01-Disseny de la Solució Tècnica Integrada](/Tasca01)
+
+- [Tasca02-Control de versions. Treballant amb git](/Tasca02)
+
+- [Tasca03-Serveis de transferència de fitxers](/Tasca03)
+
+- [Tasca04-Instal·lació Windows Server 2025](/Tasca04)
+
+- [Tasca05-Instal·lació del domini](/Tasca05)
+
+- [Tasca06-Configuració del domini](/Tasca06)
+
+- [Tasca07-Acadèmia feta amb Moodle](/Tasca07)
+
+- [Tasca08-Seguretat: protegint-nos contra el malware](/Tasca08)
+
+- [Tasca09-Seguretat: les vulnerabilitats dels sistemes](/Tasca09)
+
 - [Tasca10-Introducció al concepte Green IT](/Tasca10)
-## Productes
-- [Producte1-Control de versions. GitHub Classroom i git](/Producte01)
-- [Producte2-Llicenciament Windows Server 2025](/Producte02)
-- [Producte3-Presentació empresa amb visió Green IT](/Producte03)
+
+## Productes:
+
+- [Producte01-Control de versions. GitHub Classroom i git](/Producte01)
+
+- [Producte02-Llicenciament Windows Server 2025](/Producte02)
+
+- [Producte03-Presentació empresa amb visió Green IT](/Producte03)
