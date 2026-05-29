@@ -8,4 +8,5 @@ Activitat 1: Introducció, definicions i anàlisi actual
 Activitat 2: Exemples reals i bones pràctiques aplicades al nostre catàleg de serveis
 Activitat 3: Recerca aplicada: Dissenyem la política i els indicadors de la nostra empresa
 
+[Anar a la Solució](../Tasca10/Solucio.md)    
 [Anar a la pàgina inicial](../README.md)
