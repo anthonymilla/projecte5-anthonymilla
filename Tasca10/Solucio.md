@@ -1,4 +1,4 @@
-# T09: Seguretat: les vulnerabilitats dels sistemes
+# T10: Introducció al concepte Green IT
 
 ## Url's de les activitats:
 
