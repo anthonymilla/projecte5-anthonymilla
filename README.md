@@ -45,8 +45,6 @@ projecte5/
 
 Bona sort! 🚀
 
----
-
 ## Tasques:
 
 - [Green IT aplicat a la vostra empresa](/Green_IT_aplicat_a_la_vostra_empresa)
