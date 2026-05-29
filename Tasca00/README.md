@@ -9,4 +9,5 @@
    1. Crear el vostre repositori dins el GitHub Classroom.
    2. Crear el Kanban al Planner que anomenareu projecte-5.
 
+[Anar a la Solució](../Tasca00/Solucio.md)    
 [Anar a la pàgina inicial](../README.md)
