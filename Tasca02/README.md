@@ -21,9 +21,8 @@ A partir d’allà, els canvis sempre es faran en local, seguint el flux marcat 
 ---
 
 # Materials i links de suport
-
 - Introducció a GitHub (https://github.com/SMX2n/IntroGitHub)
-
 - Guia Control de Versions (https://github.com/SMX2n/ControlVersions)
 
+[Anar a la Solució](../Tasca02/Solucio.md)    
 [Anar a la pàgina inicial](../README.md)
