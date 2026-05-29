@@ -415,4 +415,5 @@ Configurar:
 - Restaurar-lo com a **Matemàtiques 1 backup**  
   - Nom curt: **MAT_BCKP**
 
+[Anar a la Solució](../Tasca07/Solucio.md)    
 [Anar a la pàgina inicial](../README.md)
