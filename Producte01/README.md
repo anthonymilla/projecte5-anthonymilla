@@ -22,4 +22,5 @@ Més endavant, farem que aquests repositoris passin a ser públics, d’aquesta 
 
 - Guia Control de Versions (https://github.com/SMX2n/ControlVersions)
 
+[Anar a la Solució](../Producte01/Solucio.md)    
 [Anar a la pàgina inicial](../README.md)
